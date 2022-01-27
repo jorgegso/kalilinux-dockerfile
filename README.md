@@ -9,5 +9,5 @@ Zsh is a shell designed for interactive use, although it is also a powerful scri
 3. docker build -t NameYouWanne .
 4. docker run --rm --shm-size=4g -it mikali /bin/zsh
 
-## What the web looks like
+##
 
